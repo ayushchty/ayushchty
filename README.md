@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Ayush Chakraborty!
+# Hi, I'm Ayush Chakraborty!
 
-🚀 **Aspiring Data Engineer | Data Scientist | Data Analyst**  
+**Aspiring Data Engineer | Data Scientist | Data Analyst**  
 🎓 BTech in Electronics and Communication Engineering  
 📊 SQL | Python | Power BI | NumPy | Pandas | Azure  
 
