@@ -1,11 +1,22 @@
 # Hi, I'm Ayush Chakraborty!
 
 
-##  My Skills
--  SQL (Joins, Subqueries, Window Functions, DDL/DML)
--  Python (OOP, Data Science, Visualization)
--  Power BI & Excel for Data Analysis
--  Azure DP-900 & AI-900 Certified  
+## Skills
+
+**Languages**:  
+Python, PL/SQL
+
+**Libraries & Frameworks**:  
+Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Tensorflow(Basic), PySpark (Basic)
+
+**Data Tools**:  
+Power BI, Excel
+
+**Cloud & Certifications**:  
+Microsoft Azure (DP-900, AI-900 Certified)
+
+**Other**:  
+Git, Linux, Deep Learning (Basic), LLMs (Basic)
 
 
 ##  Connect with Me  
