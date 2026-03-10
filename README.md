@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ayush Chakraborty
 
-💻 Engineer Trainee at Infogain India Pvt Ltd
+💻 Software Engineer at Infogain India Pvt Ltd
 📊 Interested in Data Engineering, Machine Learning, and Cloud Technologies
 
 ---
@@ -60,17 +60,6 @@
 ✔ Microsoft Certified: Azure Data Fundamentals (DP-900)
 ✔ Microsoft Certified: Azure AI Fundamentals (AI-900)
 
----
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushchty\&show_icons=true\&count_private=true)
-
----
-
-# 📈 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushchty\&layout=compact)
 
 ---
 
