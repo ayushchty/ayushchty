@@ -1,27 +1,75 @@
-# Hi, I'm Ayush Chakraborty!
+# Hi 👋, I'm Ayush Chakraborty
 
-
-## Skills
-
-**Languages**:  
-Python, PL/SQL
-
-**Libraries & Frameworks**:  
-Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Tensorflow(Basic), PySpark (Basic)
-
-**Data Tools**:  
-Power BI, Excel
-
-**Cloud & Certifications**:  
-Microsoft Azure (DP-900, AI-900 Certified)
-
-**Other**:  
-Git, Linux, Deep Learning (Basic), LLMs (Basic)
-
-
-##  Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ayushchty)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://www.linkedin.com/in/ayushchty)  
+💻 Engineer Trainee at Infogain India Pvt Ltd
+📊 Passionate about Data Engineering, Data Science, and Cloud Technologies
 
 ---
-🔥 Always learning and exploring new tech!  
+
+## 🚀 Tech Stack
+
+### Programming & Query Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=database\&logoColor=white)
+![PLSQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
+
+### Data Science & Machine Learning
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+
+### Deep Learning
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+
+### Big Data
+
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)
+
+### Data Visualization
+
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+
+### Cloud
+
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+---
+
+## 📜 Certifications
+
+✔ Microsoft Certified: Azure Data Fundamentals (DP-900)
+✔ Microsoft Certified: Azure AI Fundamentals (AI-900)
+
+---
+
+## 📊 GitHub Stats
+
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushchty\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 📈 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushchty\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ayushchty)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/ayushchty)
+
+---
+
+🔥 Always learning and building projects in Data Engineering, Machine Learning, and Cloud.
